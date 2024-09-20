@@ -23,3 +23,5 @@ Expected Outcome:
 
 - The script should correctly list all files and subdirectories in the specified directory. 
 - Handle exceptions for invalid paths or inaccessible directories.
+
+I provided a directory and some files to test with: "Path". 
